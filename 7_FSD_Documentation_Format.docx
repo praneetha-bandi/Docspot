@@ -1,0 +1,14 @@
+DocSpot – Functional Specification Document
+
+Modules:
+- Auth (JWT)
+- Patient Portal
+- Doctor Slot System
+
+Workflow:
+1. Patient logs in
+2. Books appointment
+3. Doctor confirms
+
+Collections:
+- users, appointments, slots

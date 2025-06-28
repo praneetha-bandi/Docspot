@@ -1,0 +1,12 @@
+DocSpot – Performance Testing
+
+Tools:
+- Postman for API Testing
+- Render logs for backend monitoring
+
+Tests:
+- Login: response time < 1 sec
+- Booking: database writes successful
+
+Security:
+- JWT verified tokens

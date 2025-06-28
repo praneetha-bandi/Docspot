@@ -1,0 +1,11 @@
+DocSpot – Requirement Analysis
+
+Functional Requirements:
+- Login/Register for doctors and patients
+- View and book appointments
+- Doctor manages slots
+
+Non-Functional Requirements:
+- Responsive UI
+- JWT-based security
+- MongoDB for data storage

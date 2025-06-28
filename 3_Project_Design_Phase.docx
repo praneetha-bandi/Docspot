@@ -1,0 +1,14 @@
+DocSpot – Project Design Phase
+
+System Architecture:
+Frontend (React.js) ↔ Backend (Node.js + Express) ↔ MongoDB
+
+Wireframes:
+- Homepage
+- Doctor Dashboard
+- Patient Booking Screen
+
+Database:
+- Users collection
+- Appointments collection
+- Slots
